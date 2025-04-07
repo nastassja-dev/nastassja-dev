@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67f2827ac6cdf00e87796392?variant=dark" alt="roadmap.sh"/></a>
 
 <!--
 **nastassja-dev/nastassja-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
